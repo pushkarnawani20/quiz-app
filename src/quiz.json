@@ -1,0 +1,101 @@
+[
+  {
+    "question": "What is ReactJS??",
+    "answers": [
+      "Server-side Framework",
+      "User-interface framework",
+      "Both",
+      "None"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Everything in React is a?",
+    "answers": [
+      "Module",
+      "Component",
+      "Package",
+      "Class"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What is Babel?",
+    "answers": [
+      " A transpiler.",
+      "An interpreter",
+      "A Compiler",
+      "Both Compiler and Transpilar"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "How many elements does a react component return",
+    "answers": [
+      "2 Elements",
+      "1 Element",
+      "Multiple Elements"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "How can you access the state of a component from inside of a member function?",
+    "answers": [
+      "this.getState()",
+      "this.prototype.stateValue",
+      "this.state",
+      "this.values"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "JavaScript can be used in ____ development",
+    "answers": [
+      "Back-End",
+      "Front-End",
+      "ReactJS",
+      "All of the Above"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Props are __________ into other components",
+    "answers": [
+      "Injected",
+      "Methods",
+      "Both A and B",
+      "All of these"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "At the highest level, React components have lifecycle events that fall into",
+    "answers": [
+      "Initialization",
+      "Destruction",
+      "State/Property Updates",
+      "All of these"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Which method in a React Component should you override to stop the component from updating?",
+    "answers": [
+      "willComponentUpdate",
+      "shouldComponentUpdate",
+      "componentDidUpdate",
+      "componentDidMount"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "What's used to pass data to a component from outside?",
+    "answers": [
+      "setState",
+      "render with arguments",
+      "PropTypes",
+      "props"
+    ],
+    "correct": 3
+  }
+]

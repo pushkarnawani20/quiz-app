@@ -1,0 +1,75 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  box-sizing: border-box;
+}
+.app{
+  width: 100%;
+  height: 100vh;
+  float: left;
+  background: linear-gradient(to right, rgb(19, 78, 94), rgb(113, 178, 128));
+  color: #fff;
+  text-align: center;
+}
+.header{
+  margin: 35px 0;
+}
+.header h1{
+  display: inline-block;
+  margin: 0;
+  font-size: 20px;
+  width: 700px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #fafafa9c;
+}
+.quizStatus p {
+    font-size: 18px;
+    color: #fff;
+}
+.questionTitle{
+  width: 650px;
+  margin: 25px auto;
+}
+.questionTitle p{
+  font-size: 15px;
+}
+.questionOptions{
+  width: 650px;
+  margin: 0 auto;
+  list-style: none;
+  padding: 0;
+  text-align: left;
+}
+.questionOptions li a{
+  font-size: 15px;
+  display: block;
+  color: #fff;
+  padding: 14px 12px;
+  margin-bottom: 8px;
+  text-decoration: none;
+  border: 1px solid #fffafa;
+}
+.submitionSection{
+  padding: 20px 0;
+}
+.submitionSection p{
+  font-size: 15px;
+  color: #fff;
+}
+.btn {
+    background: #000;
+    color: #fff;
+    outline: none;
+    border: 0;
+    cursor: pointer;
+    padding: 10px 80px;
+}
+.btn:hover{
+  background: #fff;
+  color: #000;
+}
