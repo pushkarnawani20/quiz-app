@@ -1,0 +1,13 @@
+{
+  "main.css": "/quiz-app/static/css/main.e6f582d5.chunk.css",
+  "main.js": "/quiz-app/static/js/main.3b50779e.chunk.js",
+  "main.js.map": "/quiz-app/static/js/main.3b50779e.chunk.js.map",
+  "static/js/1.062e00ae.chunk.js": "/quiz-app/static/js/1.062e00ae.chunk.js",
+  "static/js/1.062e00ae.chunk.js.map": "/quiz-app/static/js/1.062e00ae.chunk.js.map",
+  "runtime~main.js": "/quiz-app/static/js/runtime~main.026c744f.js",
+  "runtime~main.js.map": "/quiz-app/static/js/runtime~main.026c744f.js.map",
+  "static/css/main.e6f582d5.chunk.css.map": "/quiz-app/static/css/main.e6f582d5.chunk.css.map",
+  "index.html": "/quiz-app/index.html",
+  "precache-manifest.fda831ee1d0ee04f45c0263211e9fd1f.js": "/quiz-app/precache-manifest.fda831ee1d0ee04f45c0263211e9fd1f.js",
+  "service-worker.js": "/quiz-app/service-worker.js"
+}
